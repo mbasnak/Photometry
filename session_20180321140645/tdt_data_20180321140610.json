@@ -1,0 +1,53 @@
+{
+	"tags": {
+		"LED1Freq": 300,
+		"LED1Amp": 1,
+		"LED1Offset": 0.05000000075,
+		"LED2Freq": 550,
+		"LED2Amp": 3,
+		"LED2Offset": 0.05000000075,
+		"Invert1": 1,
+		"Invert2": 1,
+		"IntegrateFS": 10,
+		"BufferSize": 102400,
+		"BufferIndex": 0,
+		"BufferData": 0,
+		"OutputGain": 10000,
+		"DCExpand": 0
+	},
+	"metadata": {
+		"session_name": "d1+snc",
+		"subject_name": "25697",
+		"notes": "",
+		"data_format": "ieee-be",
+		"data_precision": "float32"
+	},
+	"status": {
+		"activex": 1,
+		"circuit_loaded": 1,
+		"circuit_running": 1,
+		"dev_connected": 1,
+		"circuit_exists": 1,
+		"recording_enabled": 1,
+		"zbus_connected": 1,
+		"sampling_rate": 6103.515625,
+		"buffer_exists": 1
+	},
+	"settings": {
+		"zbus_rack_num": 1,
+		"zbus_address": 2,
+		"start_gui": 1,
+		"fs": 0,
+		"dev": "rx8",
+		"interface": "usb",
+		"circuit_file": "C:\/Users\/dattalab\/Desktop\/tdt_lock_in\/lock_in_partags_v1.rcx",
+		"save_dir": "E:\/tdt\/lock_in\/",
+		"gui_height": 700,
+		"gui_width": 850,
+		"gui_row_height": 50,
+		"gui_rows_per_column": 6,
+		"gui_row_spacing": 0.01,
+		"buffer_overhang": 1,
+		"buffer_warning": 3000
+	}
+}
